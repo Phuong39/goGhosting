@@ -15,7 +15,7 @@ https://www.elastic.co/blog/process-ghosting-a-new-executable-image-tampering-at
 ```text
 PS C:\> .\Path\to\goGhosting.exe -real C:\windows\system32\cmd.exe -fake C:\windows\temp\fakefile
 ```
-[![goGhosting](https://res.cloudinary.com/marcomontalbano/image/upload/v1643264102/video_to_markdown/images/youtube--8s3Cj3DopT8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/8s3Cj3DopT8 "goGhosting")
+[![goGhosting](https://res.cloudinary.com/marcomontalbano/image/upload/v1643264782/video_to_markdown/images/youtube--BsFbrG4dTys-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/BsFbrG4dTys "goGhosting")
 
 ![img0.png](img0.png)
 
