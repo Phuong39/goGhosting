@@ -21,6 +21,7 @@ PS C:\> .\Path\to\goGhosting.exe -real C:\windows\system32\cmd.exe -fake C:\wind
 ## Super helpful projects
 
 ```text
+https://github.com/JamesHovious/w32
 https://github.com/Wra7h/SharpGhosting
 https://github.com/hasherezade/process_ghosting
 ```
